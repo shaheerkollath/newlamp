@@ -1,0 +1,6 @@
+localhost:80 127.0.0.1 - - [23/Apr/2020:08:25:24 +0000] "GET / HTTP/1.1" 200 2449 "-" "Wget/1.20.1 (linux-gnu)"
+localhost:80 10.0.2.2 - - [23/Apr/2020:08:26:52 +0000] "GET / HTTP/1.1" 200 859 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+localhost:80 10.0.2.2 - - [23/Apr/2020:08:26:52 +0000] "GET /assets/css/bulma.min.css HTTP/1.1" 200 22080 "http://127.0.0.1:9999/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+localhost:80 10.0.2.2 - - [23/Apr/2020:08:26:52 +0000] "GET /favicon.ico HTTP/1.1" 404 489 "http://127.0.0.1:9999/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
+localhost:80 10.0.2.2 - - [23/Apr/2020:08:28:00 +0000] "-" 408 0 "-" "-"
+localhost:80 10.0.2.2 - - [23/Apr/2020:08:28:00 +0000] "-" 408 0 "-" "-"
